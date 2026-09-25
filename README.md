@@ -25,6 +25,18 @@ The project includes:
 
 The Streamlit application is titled **“NaviBayes - AI Job Market Analytics”** and provides an interactive interface for analyzing and training models on the uploaded dataset.
 
+<img width="1882" height="905" alt="Screenshot 2026-09-25 120101" src="https://github.com/user-attachments/assets/a60ccdbd-486c-40a0-8a94-d88109a8376c" />
+
+
+<img width="1887" height="881" alt="Screenshot 2026-09-25 120114" src="https://github.com/user-attachments/assets/c526fe17-e6cc-429a-b638-1e1dc3f1d528" />
+
+
+<img width="1872" height="882" alt="Screenshot 2026-09-25 120130" src="https://github.com/user-attachments/assets/67e84f05-8496-49cb-86d2-683013bb5c91" />
+
+<img width="1875" height="903" alt="Screenshot 2026-09-25 120143" src="https://github.com/user-attachments/assets/ee74744d-fe32-4ed8-9b32-36b538fdc842" />
+
+
+
 ---
 
 # Slide 2 — Objective & Implementation Steps
